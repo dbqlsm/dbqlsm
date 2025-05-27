@@ -1,9 +1,9 @@
 ## Hi there 👋
 <h3 align="center"> <img src = "https://capsule-render.vercel.app/api?type=venom&color=auto&height=200&section=header&text=yubin&fontSize=90">
 
-## 자기소개
+<h3 align="center">📚 Studying 📚</h3>
 
-<h3 align="center"> studying <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/>
+<h3 align="center"> <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dbqlsm&layout=compact)
 
