@@ -7,7 +7,7 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dbqlsm&layout=compact)
 
-## 📬 연락처
+## 
 <h3 align="center"> <a href="mailto:dbqlsm89@gmail.com">
   <img src="https://img.shields.io/badge/Email-000000?style=flat-square&logo=gmail&logoColor=white"/>
 </a>
