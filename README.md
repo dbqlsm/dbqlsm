@@ -1,9 +1,9 @@
 ## *Yubin's space*
-<h3 align="center"> <img src="https://capsule-render.vercel.app/api?type=venom&color=gradient&colorStart=FADADD&colorEnd=FFF0F5&height=200&section=header&text=yubin&fontSize=90&fontColor=FFFFFF">
+<h3 align="center"> <img src="https://capsule-render.vercel.app/api?type=venom&color=gradient&colorStart=FADADD&colorEnd=FFF0F5&height=200&section=header&text=yubin&fontSize=90&fontColor=F5F5F5">
 
-<h3 align="center">📚 Studying 📚</h3>
+✏️ Studying ✏️</h3>
 
-<h3 align="center"> <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/>
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dbqlsm&layout=compact)
 
