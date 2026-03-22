@@ -1,4 +1,4 @@
-## 'my space'
+## *Yubin's space*
 <h3 align="center"> <img src = "https://capsule-render.vercel.app/api?type=venom&color=auto&height=200&section=header&text=yubin&fontSize=90">
 
 <h3 align="center">📚 Studying 📚</h3>
