@@ -1,5 +1,5 @@
 ## *Yubin's space*
-<h3 align="center"> <img src="https://capsule-render.vercel.app/api?type=rounded&color=gradient&colorStart=F8C8DC&colorEnd=FFFFFF&height=200&width=1000&section=header&text=yubin&fontSize=90"> </h3>
+<h3 align="center"> <img src="https://capsule-render.vercel.app/api?type=rounded&color=gradient&colorStart=F8C8DC&colorEnd=FFFFFF&height=200&section=header&text=yubin&fontSize=90"> </h3>
 
 <h3 align="center">📚 Studying 📚</h3>
 
