@@ -4,7 +4,8 @@
 <div style="margin-top: 30px;"></div>
 ✏️ Studying ✏️
 <h3 align="center"> <img src="https://img.shields.io/badge/Python-2F2F2F?style=flat-square&logo=Python&logoColor=white"/>
-<div style="margin-top: 20px;"></div>
+
+<p></p>
   
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dbqlsm&layout=compact&theme=graywhite)
 
