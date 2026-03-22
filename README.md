@@ -1,9 +1,9 @@
 ## *Yubin's space*
-<h3 align="center"> <img src="https://capsule-render.vercel.app/api?type=venom&color=FADADD&height=200&section=header&text=yubin&fontSize=90&fontColor=F5F5F5"> </h3>
+<h3 align="center"> <img src="https://capsule-render.vercel.app/api?type=venom&color=FADADD&height=200&section=header&text=yubin&fontSize=90&fontColor=F5F5F5">
 
 <div style="margin-top: 30px;"></div>
-<h3 align="center"> ✏️ Studying ✏️
-<h3 align="center"> <img src="https://img.shields.io/badge/Python-2F2F2F?style=flat-square&logo=Python&logoColor=white"/> </h3>
+✏️ Studying ✏️ <br>
+<h3 align="center"> <img src="https://img.shields.io/badge/Python-2F2F2F?style=flat-square&logo=Python&logoColor=white"/>
 
 <p></p>
   
