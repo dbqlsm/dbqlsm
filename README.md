@@ -1,11 +1,10 @@
 ## *Yubin's space*
 <h3 align="center"> <img src="https://capsule-render.vercel.app/api?type=venom&color=FADADD&height=200&section=header&text=yubin&fontSize=90&fontColor=F5F5F5"> 
 
-<br>
+<br><br>
 ✏️ Studying ✏️
 <h3 align="center"> <img src="https://img.shields.io/badge/Python-2F2F2F?style=flat-square&logo=Python&logoColor=white"/>
-<br>
-
+  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dbqlsm&layout=compact&theme=graywhite)
 
 ## 
