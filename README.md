@@ -6,7 +6,7 @@
 
 <h3 align="center"> <img src="https://img.shields.io/badge/Python-2F2F2F?style=flat-square&logo=Python&logoColor=white"/>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dbqlsm&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dbqlsm&layout=compact&theme=gruvbox_light)
 
 ## 
 <h3 align="center"> <a href="mailto:dbqlsm89@gmail.com">
